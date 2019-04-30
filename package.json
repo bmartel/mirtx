@@ -1,0 +1,11 @@
+{
+  "name": "mirtx",
+  "version": "0.1.0",
+  "description": "A reactive store built on top of mithril stream",
+  "main": "index.js",
+  "author": "Brandon Martel <brandonmartel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mithril": "2.0.0-rc.4"
+  }
+}
